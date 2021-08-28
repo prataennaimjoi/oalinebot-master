@@ -80,7 +80,7 @@ def handle_message(event):
                 actions=[
                     MessageTemplateAction(
                         label='Culum 1',
-                        text='/prataennaimjoi '
+                        text='/ptatan1983 '
                     ),
                     MessageTemplateAction(
                         label='CULUM 2',
