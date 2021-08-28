@@ -80,15 +80,15 @@ def handle_message(event):
                 actions=[
                     MessageTemplateAction(
                         label='Culum 1',
-                        text='/ptatan1983 '
+                        text='/prataennaimjoi '
                     ),
                     MessageTemplateAction(
                         label='CULUM 2',
-                        text='/ptatan1983 '
+                        text='/prataennaimjoi '
                     ),
                     MessageTemplateAction(
                         label='CULUM 3',
-                        text='/ptatan1983 '
+                        text='/prataennaimjoi '
                     )
                 ]
             )
@@ -103,7 +103,7 @@ def handle_message(event):
                 columns=[
                     CarouselColumn(
                         title='ADD ME',
-                        text='Contact ptatan1983 ',
+                        text='Contact prataennaimjoi ',
                         actions=[
                             URITemplateAction(
                                 label='>TAP HERE<',
@@ -140,7 +140,7 @@ def handle_message(event):
                 layout='vertical',
                 contents=[
                     # title
-                    TextComponent(text='ptatan1983 ', weight='bold', size='xl'),
+                    TextComponent(text='prataennaimjoi ', weight='bold', size='xl'),
                     # review
                     BoxComponent(
                         layout='baseline',
@@ -213,7 +213,7 @@ def handle_message(event):
                     ButtonComponent(
                         style='link',
                         height='sm',
-                        action=URIAction(label='ptatan1983 ', uri="https://line.me/ti/p/~adit_cmct")
+                        action=URIAction(label='prataennaimjoi ', uri="https://line.me/ti/p/~adit_cmct")
                     )
                 ]
             ),
