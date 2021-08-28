@@ -84,11 +84,11 @@ def handle_message(event):
                     ),
                     MessageTemplateAction(
                         label='CULUM 2',
-                        text='/prataennaimjoi '
+                        text='/ptatan1983 '
                     ),
                     MessageTemplateAction(
                         label='CULUM 3',
-                        text='/prataennaimjoi '
+                        text='/ptatan1983 '
                     )
                 ]
             )
@@ -103,7 +103,7 @@ def handle_message(event):
                 columns=[
                     CarouselColumn(
                         title='ADD ME',
-                        text='Contact prataennaimjoi ',
+                        text='Contact ptatan1983 ',
                         actions=[
                             URITemplateAction(
                                 label='>TAP HERE<',
@@ -140,7 +140,7 @@ def handle_message(event):
                 layout='vertical',
                 contents=[
                     # title
-                    TextComponent(text='prataennaimjoi ', weight='bold', size='xl'),
+                    TextComponent(text='ptatan1983 ', weight='bold', size='xl'),
                     # review
                     BoxComponent(
                         layout='baseline',
@@ -172,7 +172,7 @@ def handle_message(event):
                                         flex=1
                                     ),
                                     TextComponent(
-                                        text='Tangerang, Indonesia',
+                                        text='Bangkok, Thailand',
                                         wrap=True,
                                         color='#666666',
                                         size='sm',
@@ -213,7 +213,7 @@ def handle_message(event):
                     ButtonComponent(
                         style='link',
                         height='sm',
-                        action=URIAction(label='prataennaimjoi ', uri="https://line.me/ti/p/~adit_cmct")
+                        action=URIAction(label='ptatan1983 ', uri="https://line.me/ti/p/~adit_cmct")
                     )
                 ]
             ),
