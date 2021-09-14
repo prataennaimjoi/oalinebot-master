@@ -213,7 +213,7 @@ def handle_message(event):
                     ButtonComponent(
                         style='link',
                         height='sm',
-                        action=URIAction(label='prataennaimjoi ', uri="https://line.me/ti/p/~adit_cmct")
+                        action=URIAction(label='ptatan1983 ', uri="https://line.me/ti/p/~adit_cmct")
                     )
                 ]
             ),
